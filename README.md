@@ -3,7 +3,7 @@ This repo contains ML model and analysis used for predicting the whether the cli
 
 This is a practical application assignment that focuses on using data analysis skills, in an effort to seek answer to the question, “Whether the client will subscribe to the term deposit?”.
 
-Link to Explore Notebook: 
+Link to Explore Notebook: https://github.com/seetharamanr86/predict_term_deposit_subscriptiion/blob/main/Practical%20Application%203%20-%20Module%2017.ipynb
 
 Data Used: https://archive.ics.uci.edu/dataset/222/bank+marketing
 
